@@ -1,9 +1,6 @@
 
 # Mini Document Search Engine
 
-## Assignment
-Document Indexing and Search Engine — Q1 and Q2.
-
 ## Features
 - Upload multiple text documents.
 - Add documents manually.
